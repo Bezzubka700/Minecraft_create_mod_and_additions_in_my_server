@@ -7,6 +7,9 @@ Používám jich docela dost a většinu jsem ještě ani nepoužil. Zde je jeji
 3. Create: interactive
 4. Create: Clockwork
 5. Create: Slice and Dice
+6. Create: Big Cannons
+7. Create: Radars
+8. Create: Enchantment Industry
 
 Zde je můžete stáhnout:
 [cruseforge](https://www.curseforge.com)
